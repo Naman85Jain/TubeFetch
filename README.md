@@ -4,9 +4,9 @@ This project is a YouTube video downloader application built using Spring Boot, 
 
 Table of Contents
 
-#`Features`
-#`Usage`
-#`Technologies`
+`Features`
+`Usage`
+`Technologies`
 
 
 Features
